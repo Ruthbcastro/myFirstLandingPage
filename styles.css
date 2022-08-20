@@ -8,14 +8,15 @@ a {
 }
 
 .navbar-farid {
-    background-color:rgb(79, 47, 155);
+    background-color:rgb(255, 187, 0);
     color: white;
 }
 
 .navbar-farid img {
     width: 50px;
     margin-left: 30px;
-}
+} 
+
 
 .navbar-farid div {
     display: inline-block;

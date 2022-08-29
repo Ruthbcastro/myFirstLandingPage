@@ -1,7 +1,14 @@
 * {
     margin: 0;
     padding: 0;
+<<<<<<< HEAD
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+=======
+    font-family: Verdana, Geneva, Tahoma, sans-serif!important;
+}
+a {
+    text-decoration: none;
+>>>>>>> 7db39154028fdaed2953e3c74921b69d6f399551
 }
 
 .navbar-farid {
@@ -12,4 +19,26 @@
 .navbar-farid img {
     width: 50px;
     margin-left: 30px;
+<<<<<<< HEAD
 }
+=======
+}
+
+.navbar-farid div {
+    display: inline-block;
+}
+
+.navbar-farid >div >ul >li {
+    display: inline-block;
+}
+
+.navbar-farid >div >ul >li >a {
+    color: white;
+    margin-right: 30px;
+}
+
+.header {
+    margin-left: 700px;
+}
+
+>>>>>>> 7db39154028fdaed2953e3c74921b69d6f399551

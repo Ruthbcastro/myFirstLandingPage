@@ -33,3 +33,11 @@ a {
 .header {
     margin-left: 700px;
 }
+
+div + p {
+   color: blue; 
+}
+
+.nombre1 + .nombre2 {
+    color: red;
+}

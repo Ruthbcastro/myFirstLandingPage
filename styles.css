@@ -50,3 +50,14 @@ table td {
     border: 1px solid pink;
 
 }
+
+.table2 {
+    border: 3px solid black;
+}
+
+.table2 td {
+    background-color: black;
+    color: white;
+    border: 6px solid black;
+    text-align: center;
+}

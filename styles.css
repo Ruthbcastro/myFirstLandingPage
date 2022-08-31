@@ -41,3 +41,12 @@ div + p {
 .nombre1 + .nombre2 {
     color: red;
 }
+table {
+    border: 1px solid black;
+}
+
+table td {
+    background-color: aqua;
+    border: 1px solid pink;
+
+}
